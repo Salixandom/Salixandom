@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salixandom
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sakib519272@gmail.com
 
