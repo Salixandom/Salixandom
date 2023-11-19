@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salixandom&label=Profile%20views&color=0e75b6&style=flat" alt="salixandom" /> </p>
 
-- 🌱 I’m currently learning **C++,JavaScript**
+- 🌱 I’m currently learning **JavaScript, Node Js and EXpress**
 
 - 📫 How to reach me **sakib519272@gmail.com**
 
