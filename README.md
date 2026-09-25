@@ -1,36 +1,41 @@
 # Hi there, I'm Sadman Sakib 👋
 
-**Machine Learning Engineer | Backend Developer | Cloud Enthusiast**
+**Full Stack & AI Engineer @ PeriScale AI | CSE @ BUET | 🏆 IEEE VIP Cup 2025 Global Champion**
 
-I'm passionate about building intelligent systems and scalable applications. Currently focused on AI/ML solutions and backend architecture.
+I build multi-agent AI systems and the scalable backends that run them — from LangGraph agent pipelines to distributed data infrastructure.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on machine learning models and backend systems
-- 🌱 Learning advanced deep learning and cloud architecture
-- 💡 Interested in MLOps, system design, and AI applications
+- 💼 **Full Stack & AI Engineer at [PeriScale AI](#)** — building multi-agent LangGraph systems, Meta API integrations, and full-stack CRM/marketing features
+- 🎓 CSE undergraduate at **BUET** (Bangladesh University of Engineering and Technology)
+- 🛰️ Previously at **CTrends**, working on distributed systems with Kafka, Kubernetes, and PostGIS
+- 🔬 Research interests: agentic AI / LLM-agent security, ML security, Bengali speech & language AI
 - 📍 Based in Dhaka, Bangladesh
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **IEEE SPS Video and Image Processing (VIP) Cup 2025 — Global Champion** (Team NeuronX, BUET)
+  Drone detection, tracking, and payload identification via RGB-IR fusion — Co-DETR + RF-DETR + YOLOv8 ensemble, DEYOLO dual-modality fusion, ByteTrack + SAHI tracking, on a custom 5,000-pair RGB-IR dataset (composite score **0.927**)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- Python, JavaScript/TypeScript, C++, Go
-- PyTorch, TensorFlow, scikit-learn
-- Node.js, Springboot, Express
+**Languages**
+Python · TypeScript/JavaScript · C++ · Go · Java
 
-**Databases & Tools**
-- PostgreSQL, MongoDB, Redis
-- Docker, Kubernetes, AWS (Learning)
-- Git, Linux
+**AI / ML**
+PyTorch · TensorFlow · scikit-learn · LangGraph · LLM agents · Computer Vision · NLP / Speech · LightGBM · Optuna · SHAP
 
-**AI/ML**
-- Deep Learning, Computer Vision, NLP
-- Model deployment and optimization
-- Data analysis and visualization
+**Backend & Frameworks**
+FastAPI · Django · Node.js · Express · Spring Boot · React · Next.js
+
+**Data & Infrastructure**
+PostgreSQL · PostGIS · MongoDB · Redis · Qdrant · Kafka · Docker · Kubernetes · Linux · Git
 
 ---
 
