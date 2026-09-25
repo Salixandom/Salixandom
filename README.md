@@ -39,19 +39,6 @@ PostgreSQL · PostGIS · MongoDB · Redis · Qdrant · Kafka · Docker · Kubern
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salixandom&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salixandom&theme=dark" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salixandom&layout=compact&theme=dark&langs_count=8" width="48%" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib12)
