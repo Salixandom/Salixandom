@@ -1,41 +1,49 @@
 # Hi there, I'm Sadman Sakib 👋
 
-**Full Stack & AI Engineer @ PeriScale AI | CSE @ BUET | 🏆 IEEE VIP Cup 2025 Global Champion**
+**Machine Learning Engineer | Backend Developer | Cloud Enthusiast**
 
-I build multi-agent AI systems and the scalable backends that run them — from LangGraph agent pipelines to distributed data infrastructure.
+I'm passionate about building intelligent systems and scalable applications. Currently focused on AI/ML solutions and backend architecture.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Full Stack & AI Engineer at [PeriScale AI](#)** — building multi-agent LangGraph systems, Meta API integrations, and full-stack CRM/marketing features
-- 🎓 CSE undergraduate at **BUET** (Bangladesh University of Engineering and Technology)
-- 🛰️ Previously at **CTrends**, working on distributed systems with Kafka, Kubernetes, and PostGIS
-- 🔬 Research interests: agentic AI / LLM-agent security, ML security, Bengali speech & language AI
-- 📍 Based in Dhaka, Bangladesh
-
----
-
-## 🏆 Highlights
-
-- 🥇 **IEEE SPS Video and Image Processing (VIP) Cup 2025 — Global Champion** (Team NeuronX, BUET)
-  Drone detection, tracking, and payload identification via RGB-IR fusion — Co-DETR + RF-DETR + YOLOv8 ensemble, DEYOLO dual-modality fusion, ByteTrack + SAHI tracking, on a custom 5,000-pair RGB-IR dataset (composite score **0.927**)
+    🔭 Working on machine learning models and backend systems
+    🌱 Learning advanced deep learning and cloud architecture
+    💡 Interested in MLOps, system design, and AI applications
+    📍 Based in Dhaka, Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python · TypeScript/JavaScript · C++ · Go · Java
+**Languages & Frameworks**
+- Python, JavaScript/TypeScript, C++, Go
+- PyTorch, TensorFlow, scikit-learn
+- Node.js, Springboot, Express
 
-**AI / ML**
-PyTorch · TensorFlow · scikit-learn · LangGraph · LLM agents · Computer Vision · NLP / Speech · LightGBM · Optuna · SHAP
+**Databases & Tools**
+- PostgreSQL, MongoDB, Redis
+- Docker, Kubernetes, AWS (Learning)
+- Git, Linux
 
-**Backend & Frameworks**
-FastAPI · Django · Node.js · Express · Spring Boot · React · Next.js
+**AI/ML**
+- Deep Learning, Computer Vision, NLP
+- Model deployment and optimization
+- Data analysis and visualization
 
-**Data & Infrastructure**
-PostgreSQL · PostGIS · MongoDB · Redis · Qdrant · Kafka · Docker · Kubernetes · Linux · Git
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salixandom&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salixandom&theme=dark" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salixandom&layout=compact&theme=dark&langs_count=8" width="48%" />
+</div>
 
 ---
 
